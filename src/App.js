@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+import React from 'react';
+import CryptoWebApp from './CryptoWebApp/CryptoWebApp';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello, world!</h1>
+      <CryptoWebApp></CryptoWebApp>
     </div>
   );
 }
