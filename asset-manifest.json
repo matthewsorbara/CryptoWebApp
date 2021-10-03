@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CryptoWebApp/static/css/main.a617e044.chunk.css",
+    "main.js": "/CryptoWebApp/static/js/main.be8b3413.chunk.js",
+    "main.js.map": "/CryptoWebApp/static/js/main.be8b3413.chunk.js.map",
+    "runtime-main.js": "/CryptoWebApp/static/js/runtime-main.dcde3033.js",
+    "runtime-main.js.map": "/CryptoWebApp/static/js/runtime-main.dcde3033.js.map",
+    "static/js/2.900b43ee.chunk.js": "/CryptoWebApp/static/js/2.900b43ee.chunk.js",
+    "static/js/2.900b43ee.chunk.js.map": "/CryptoWebApp/static/js/2.900b43ee.chunk.js.map",
+    "static/js/3.f8d23cc0.chunk.js": "/CryptoWebApp/static/js/3.f8d23cc0.chunk.js",
+    "static/js/3.f8d23cc0.chunk.js.map": "/CryptoWebApp/static/js/3.f8d23cc0.chunk.js.map",
+    "index.html": "/CryptoWebApp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/CryptoWebApp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.900b43ee.chunk.js.LICENSE.txt": "/CryptoWebApp/static/js/2.900b43ee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CryptoWebApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcde3033.js",
+    "static/js/2.900b43ee.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.be8b3413.chunk.js"
+  ]
+}
