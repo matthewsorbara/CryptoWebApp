@@ -110,6 +110,7 @@ export default class PricingBox extends React.Component {
           <h1 style={boxStyle}>Testing8</h1>
           <h1 style={boxStyle}>Testing9</h1>
           <h1 style={boxStyle}>Testing10</h1>
+          <h1 style={boxStyle}>Testing11</h1>
 
         </Marquee>
 
