@@ -99,7 +99,7 @@ export default class PricingBox extends React.Component {
     }
 
     return (
-        <Marquee>
+        <Marquee pauseOnHover={true} gradient={false}>
           <h1 style={boxStyle}>Testing1</h1>
           <h1 style={boxStyle}>Testing2</h1>
           <h1 style={boxStyle}>Testing3</h1>
