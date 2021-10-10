@@ -13,7 +13,6 @@ export default class CryptoWebApp extends React.Component {
             <div>
                 <PricingBox></PricingBox>
                 <Navigation></Navigation>
-                {/* <BTCPrice></BTCPrice> */}
             </div>
         )
     }
