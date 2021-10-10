@@ -19,7 +19,7 @@ export default class Navigation extends React.Component {
         return (
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Container>
-                    <Navbar.Brand className="fontnav" href="#home">Crypto Web App w/ Binance API</Navbar.Brand>
+                    <Navbar.Brand className="fontnav" href="#home">Crypto Web App</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">

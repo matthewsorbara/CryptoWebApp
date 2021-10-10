@@ -23,15 +23,15 @@ export default class BTCPrice extends React.Component {
     //     let newClose = messageObject.k.c;
 
 
-    //     const display = document.getElementById("BTCpriceDisplay")
-    //     if (newClose > this.state.BTCclose) {
-    //         display.style.color = "#40a35a";
-    //         setTimeout(() => display.style.color = "black", 750)
-    //     }
-    //     if (newClose < this.state.BTCclose) {
-    //         display.style.color = "#ab3733";
-    //         setTimeout(() => display.style.color = "black", 750)
-    //     }
+        // const display = document.getElementById("BTCpriceDisplay")
+        // if (newClose > this.state.BTCclose) {
+        //     display.style.color = "#40a35a";
+        //     setTimeout(() => display.style.color = "black", 750)
+        // }
+        // if (newClose < this.state.BTCclose) {
+        //     display.style.color = "#ab3733";
+        //     setTimeout(() => display.style.color = "black", 750)
+        // }
 
     //     candlesticks.setData([
     //         { time: messageObject.k.T, open: messageObject.k.o, high: messageObject.k.h, low: messageObject.k.l, close: messageObject.k.c },
