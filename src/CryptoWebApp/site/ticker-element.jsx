@@ -67,10 +67,16 @@ export default class TickerElement extends React.Component {
             marginLeft: "20px"
           }
 
+          const nameStyle = {
+            fontSize: "12px",
+            alignSelf: "center"
+          }
+
         return (
             <div style={boxStyle}>
               <div style={titleStyle}>
                 <h6>{this.props.ticker}</h6>
+                <h6 style={nameStyle}>&nbsp;-&nbsp;{this.props.name}</h6>
                 {/* <h6 style={percentageStyle}>▲ 0.19%</h6> */}
               </div>
             

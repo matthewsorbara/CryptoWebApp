@@ -33,14 +33,19 @@ export default class PricingBox extends React.Component {
     return (
       <Marquee pauseOnHover={true} gradient={false}>
 
-        <TickerElement ticker="BTC" />
-        <TickerElement ticker="ETH" />
-        <TickerElement ticker="XRP" />
-        <TickerElement ticker="ADA" />
-        <TickerElement ticker="BNB" />
-        <TickerElement ticker="SOL" />
-        <TickerElement ticker="DOGE" />
-        <TickerElement ticker="LTC" />
+        <TickerElement ticker="BTC" name="Bitcoin" />
+        <TickerElement ticker="ETH" name="Ethereum" />
+        <TickerElement ticker="XRP" name="Ripple"/>
+        <TickerElement ticker="ADA" name="Cardano"/>
+        <TickerElement ticker="BNB" name="Binance Coin"/>
+        <TickerElement ticker="SOL" name="Solana"/>
+        <TickerElement ticker="DOGE" name="Dogecoin"/>
+        <TickerElement ticker="LTC" name="Litecoin"/>
+        <TickerElement ticker="DOT" name="Polkadot"/>
+        <TickerElement ticker="BCH" name="Bitcoin Cash"/>
+        <TickerElement ticker="XLM" name="Stellar"/>
+        <TickerElement ticker="ETC" name="ETH Classic"/>
+        <TickerElement ticker="CAKE" name="Pancake"/>
 
 
       </Marquee>
