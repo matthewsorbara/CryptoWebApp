@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&display=swap');
+
+
+.fontnav {
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 28px;
+}
+
+.coinName {
+    font-size: 14px !important;
+}
