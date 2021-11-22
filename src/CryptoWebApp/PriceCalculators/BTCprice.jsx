@@ -54,6 +54,8 @@ export default class BTCPrice extends React.Component {
 
     }
 
+
+
     render() {
 
         const chartStyle = {
